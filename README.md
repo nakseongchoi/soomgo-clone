@@ -1,0 +1,2 @@
+# soomgo
+clone soomgo application
